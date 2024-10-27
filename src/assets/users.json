@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Sandra",
+        "email": "Sandra.google.se",
+        "city": "Sundsvall"
+    },
+    {
+        "id": 2,
+        "name": "Noah",
+        "email": "Noah.google.se",
+        "city": "Sundsvall"
+    },
+    {
+        "id": 3,
+        "name": "Ann",
+        "email": "Ann.google.se",
+        "city": "Göteborg"
+    }
+]
